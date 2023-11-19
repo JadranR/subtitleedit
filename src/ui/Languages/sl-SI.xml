@@ -1249,7 +1249,7 @@ Za uporabo ključa API, pojdite na "Možnosti -&gt; Nastavitve -&gt; Orodja" in 
         <SubtitlesBridgeGaps>Premosti vrzeli med podnapisi...</SubtitlesBridgeGaps>
         <FixCommonErrors>&amp;Popravi pogoste napake...</FixCommonErrors>
         <StartNumberingFrom>Preštevilči...</StartNumberingFrom>
-        <RemoveTextForHearingImpaired>Odstrani tekst za naglušne...</RemoveTextForHearingImpaired>
+        <RemoveTextForHearingImpaired>Odstrani besedilo za naglušne...</RemoveTextForHearingImpaired>
         <ConvertColorsToDialog>Pretvori barve v pogovorno okno...</ConvertColorsToDialog>
         <ChangeCasing>Spremeni velikost črk...</ChangeCasing>
         <ChangeFrameRate>Spremeni hitrost sličic...</ChangeFrameRate>
@@ -1498,10 +1498,10 @@ Za uporabo ključa API, pojdite na "Možnosti -&gt; Nastavitve -&gt; Orodja" in 
       <Pause>Pavza</Pause>
       <GoToSubtitlePositionAndPause>Pojdi na podpoložaj in premor</GoToSubtitlePositionAndPause>
       <SetStartTime>Nastavi &amp;začetni čas</SetStartTime>
-      <SetEndTimeAndGoToNext>Nastavi &amp;in &amp;&amp; pojdi na naslednje</SetEndTimeAndGoToNext>
+      <SetEndTimeAndGoToNext>Nastavi &amp;in pojdi na naslednje</SetEndTimeAndGoToNext>
       <AdjustedViaEndTime>Prilagojeno prek končnega časa {0}</AdjustedViaEndTime>
       <SetEndTime>Nastavi &amp;končni čas</SetEndTime>
-      <SetStartTimeAndOffsetTheRest>Nastavi Z&amp;ačetek in odmakni ostalo</SetStartTimeAndOffsetTheRest>
+      <SetStartTimeAndOffsetTheRest>Nastavi z&amp;ačetek in odmakni ostalo</SetStartTimeAndOffsetTheRest>
       <SearchTextOnline>Išči besedilo na spletu</SearchTextOnline>
       <GoogleTranslate>Google prevajalnik</GoogleTranslate>
       <AutoTranslate>Samodejno prevedi</AutoTranslate>
