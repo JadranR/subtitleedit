@@ -71,7 +71,7 @@
     <OpenOriginalSubtitleFile>Odpri izvirno datoteko s podnapisi...</OpenOriginalSubtitleFile>
     <PleaseWait>Prosimo, počakajte...</PleaseWait>
     <SessionKey>Ključ seje</SessionKey>
-    <SessionKeyGenerate>Generate new key</SessionKeyGenerate>
+    <SessionKeyGenerate>Ustvari novi ključ</SessionKeyGenerate>
     <UserName>Uporabniško ime</UserName>
     <UserNameAlreadyInUse>Uporabniško ime je že v uporabi</UserNameAlreadyInUse>
     <WebServiceUrl>URL spletne storitve:</WebServiceUrl>
@@ -88,7 +88,7 @@
     <LineNumber>Št. vrstice</LineNumber>
     <Before>Prej</Before>
     <After>Po</After>
-    <Size>Velikos</Size>
+    <Size>Velikost</Size>
     <Search>Poišči</Search>
     <DeleteCurrentLine>Izbriši trenutno vrstico</DeleteCurrentLine>
     <Width>Širina</Width>
@@ -232,7 +232,7 @@ Opomba: Preverite prosti prostor na disku.</WaveFileMalformed>
     <YAdjustment>Prilagoditev Y</YAdjustment>
     <Position>Položaj</Position>
     <TextAlignment>Poravnava besedila</TextAlignment>
-    <SquareCorners>Kvadrati vogali</SquareCorners>
+    <SquareCorners>Kvadratni vogali</SquareCorners>
     <RoundedCorners>Zaobljeni vogali</RoundedCorners>
     <Top>Zgoraj</Top>
     <Bottom>Spodaj</Bottom>
@@ -320,7 +320,7 @@ Opomba: Preverite prosti prostor na disku.</WaveFileMalformed>
     <FixRtlReverseStartEnd>Obrni začetek/konec RTL</FixRtlReverseStartEnd>
     <SplitLongLines>Razdeli dolge vrstice</SplitLongLines>
     <AutoBalance>Samodejnega ravnovesje vrstic</AutoBalance>
-    <ScanFolder>Skeniraj mapo...</ScanFolder>
+    <ScanFolder>Preglej mapo...</ScanFolder>
     <Recursive>Vključi podmape</Recursive>
     <BridgeGaps>Premosti vrzeli</BridgeGaps>
     <PlainText>Navadno besedilo</PlainText>
@@ -422,7 +422,7 @@ Opomba: Preverite prosti prostor na disku.</WaveFileMalformed>
     <AllowOverlap>Dovoli prekrivanje</AllowOverlap>
   </ChangeSpeedInPercent>
   <CheckForUpdates>
-    <Title>Preveri posodobitve</Title>
+    <Title>Preveri obstoj posodobitev</Title>
     <CheckingForUpdates>Preverjanje posodobitev...</CheckingForUpdates>
     <CheckingForUpdatesFailedX>Preverjanje posodobitev ni uspelo: {0}</CheckingForUpdatesFailedX>
     <CheckingForUpdatesNoneAvailable>Uporabljate najnovejšo različico urejanja podnapisov :)</CheckingForUpdatesNoneAvailable>
@@ -445,7 +445,7 @@ Opomba: Preverite prosti prostor na disku.</WaveFileMalformed>
   </ChooseLanguage>
   <ColorChooser>
     <Title>Izberite barvo</Title>
-    <Red>rdeča</Red>
+    <Red>Rdeča</Red>
     <Green>Zelena</Green>
     <Blue>Modra</Blue>
     <Alpha>Alfa</Alpha>
@@ -666,8 +666,7 @@ Opomba: Preverite prosti prostor na disku.</WaveFileMalformed>
     <XImagesSavedInY>{0:#,##0} slike, shranjene v {1}</XImagesSavedInY>
     <VideoResolution>Video ločljivost</VideoResolution>
     <Align>Poravnaj</Align>
-    <Left>
-    </Left>
+    <Left>Levo</Left>
     <Right>Desno</Right>
     <Center>Na sredino</Center>
     <CenterLeftJustify>Na sredino, poravnano levo</CenterLeftJustify>
@@ -685,8 +684,7 @@ Opomba: Preverite prosti prostor na disku.</WaveFileMalformed>
     <SavePremiereEdlAs>Izberite ime datoteke Premiere EDL</SavePremiereEdlAs>
     <SaveFcpAs>Izberite ime xml datoteke Final Cut Pro</SaveFcpAs>
     <SaveDostAs>Izberite ime datoteke DoStudio dost</SaveDostAs>
-    <SomeLinesWereTooLongX>Nekatere vrstice so bile predolge:
-{0}</SomeLinesWereTooLongX>
+    <SomeLinesWereTooLongX>Nekatere vrstice so bile predolge: {0}</SomeLinesWereTooLongX>
     <LineHeight>Višina vrstice</LineHeight>
     <BoxSingleLine>Okvirček- enovrstična</BoxSingleLine>
     <BoxMultiLine>Okvirček - več vrstic</BoxMultiLine>
@@ -1059,7 +1057,7 @@ Za uporabo ključa API, pojdite na "Možnosti -&gt; Nastavitve -&gt; Orodja" in 
     <fiName>Finščina</fiName>
     <fjName>Fidžijščina</fjName>
     <foName>Fersščina</foName>
-    <frName>Zrancoščina</frName>
+    <frName>Francoščina</frName>
     <fyName>Zahodnofrizijščina</fyName>
     <gaName>Irsščina</gaName>
     <gdName>Škotska gelščina</gdName>
